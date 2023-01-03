@@ -31,6 +31,6 @@
 ---
 
 ## Ссылки проекта:
-* [Ссылка на проект GitHub](https://github.com/elicrock/how-to-learn)
+* [Проект на GitHub](https://github.com/elicrock/how-to-learn)
 
 ---
