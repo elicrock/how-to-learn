@@ -5,6 +5,9 @@
   position: relative;
   display: -webkit-flex;
   display: flex;
+  -webkit-align-items: center;
+          align-items: center;
   background-color: #f2f2f2;
   overflow: hidden;
+  z-index: 1;
 }
