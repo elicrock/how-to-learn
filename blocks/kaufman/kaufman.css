@@ -1,7 +1,10 @@
 .kaufman {
+  display: -webkit-flex;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-align-items: center;
+          align-items: center;
   background: #1f1f1f;
   overflow: hidden;
   position: relative;

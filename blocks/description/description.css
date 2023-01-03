@@ -1,5 +1,7 @@
 .description {
-  margin-top: 100px;
+  padding-top: 100px;
+  display: -webkit-flex;
   display: flex;
-  justify-content: center;
+  -webkit-justify-content: center;
+          justify-content: center;
 }

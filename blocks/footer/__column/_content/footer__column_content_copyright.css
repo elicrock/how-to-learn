@@ -1,6 +1,10 @@
 .footer__column_content_copyright {
+  display: -webkit-flex;
   display: flex;
-  flex-basis: 711px;
-  flex-direction: column;
-  justify-content: space-between;
+  -webkit-flex-basis: 711px;
+          flex-basis: 711px;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
 }

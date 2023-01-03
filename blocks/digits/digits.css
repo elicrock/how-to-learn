@@ -1,6 +1,9 @@
 .digits {
   padding: 100px 0;
+  display: -webkit-flex;
   display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
 }

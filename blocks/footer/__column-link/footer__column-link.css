@@ -4,9 +4,11 @@
   font-size: 18px;
   line-height: 30px;
   font-weight: 400;
+  display: -webkit-flex;
   display: flex;
-  align-items: center;
-  transition: 0.2s;
+  -webkit-align-items: center;
+          align-items: center;
+  transition: color 0.3s;
 }
 
 .footer__column-link:hover {

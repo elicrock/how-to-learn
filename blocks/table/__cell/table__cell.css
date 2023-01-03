@@ -1,4 +1,9 @@
 .table__cell {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  row-gap: 20px;
   width: 250px;
   list-style: none;
   margin-top: 60px;

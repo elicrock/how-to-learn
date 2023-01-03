@@ -1,4 +1,9 @@
 .two-columns__main-text {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  row-gap: 30px;
   width: 80%;
   min-width: 784px;
 }

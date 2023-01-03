@@ -1,0 +1,10 @@
+.cards__item {
+  width: calc((100% - 200px) / 3);
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-align-items: center;
+          align-items: center;
+  text-align: center;
+}
